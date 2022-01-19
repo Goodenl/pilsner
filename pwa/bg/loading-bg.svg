@@ -11,7 +11,12 @@
 				}
 			}
 
-	    
+	    g.layer > g:nth-child(2n) {
+	    	animation: 4s ease-in-out 1 both running slide;
+	    }
+	    g.layer > g:not(:nth-child(2n)) {
+	    	animation: 4s ease-in-out 1 reverse running slide;
+	    }
 	    ]]>
     }
 	</style> 
