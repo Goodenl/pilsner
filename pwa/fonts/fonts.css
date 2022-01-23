@@ -124,3 +124,10 @@
   font-weight: 900;
   src: local('Inter Black Italic'), url('/pwa/fonts/Inter-BlackItalic.woff') format('woff');
 }*/
+
+@font-face {
+  font-family: 'Bebas Neue Cyrillic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bebas Neue'), url('/pwa/fonts/Bebas-Neue-Cyrillic.ttf') format('truetype');
+}
