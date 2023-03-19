@@ -1,0 +1,1230 @@
+[
+  {
+    "id": "e3bba789-f319-416d-8eeb-932c42edde25",
+    "title": "Delivery menu",
+    "positions": [
+      {
+        "id": "1edaeb33-2baf-6da0-9e41-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Utopians",
+        "description": "Traditional Czech dish - sausages marinated in vinegar with vegetables.",
+        "image": "/img/picture/gf_6013f62a151646.939166791611920938086.jpg",
+        "weight": "190 / 60",
+        "price": 360,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bba-62c8-b434-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Smoked pig ears",
+        "description": "",
+        "image": "/img/picture/gf_603a0d8d2933c3.514657311614417293169.jpg",
+        "weight": "330",
+        "price": 620,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bc4-616a-852b-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Velka uzenarska desk",
+        "description": "Dried turkey and homemade pork, smoked beef, homemade sausage and drowned fish, served with pickled vegetables, horseradish and mustard.",
+        "image": "/img/picture/gf_62399826f110e4.978380141647941670987.jpg",
+        "weight": "415",
+        "price": 980,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bcd-6d1e-a57d-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Herring",
+        "description": "Lightly salted herring with grilled potatoes, pickled onions and croutons.",
+        "image": "/img/picture/gf_6374d8fb09a209.407044991668602107039.jpg",
+        "weight": "340",
+        "price": 390,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bd7-6b2a-9f0f-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Pickles",
+        "description": "Milk mushrooms, cherry tomatoes and homemade pickled cucumbers with Gurian cabbage.",
+        "image": "/img/picture/gf_639349afa3f0d3.688083001670597039672.jpg",
+        "weight": "250 g.",
+        "price": 370,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2be1-6ec2-9913-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Magadan smoked shrimp",
+        "description": "",
+        "image": "/img/picture/gf_6374d90b01fa21.613305281668602123008.jpg",
+        "weight": "385",
+        "price": 1650,
+        "sort_order": 6,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bec-6534-8494-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "Nut mix",
+        "description": "Smoked almonds and roasted peanuts",
+        "image": "/img/picture/gf_6374d917e57453.562464121668602135940.jpg",
+        "weight": "150 g.",
+        "price": 390,
+        "sort_order": 7,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2bf6-66a6-8133-0025900cf784",
+        "category": "1edaeb33-2ba7-6092-96c4-0025900cf784",
+        "categories": [
+          "1edaeb33-2ba7-6092-96c4-0025900cf784"
+        ],
+        "title": "fish plate",
+        "description": "Smoked omul and muksun, slightly salted salmon and herring with boiled grilled potatoes and Borodino croutons",
+        "image": "/img/picture/gf_6374d923a12931.991402121668602147660.jpg",
+        "weight": "400",
+        "price": 1470,
+        "sort_order": 8,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c07-6e10-bf74-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Smazhak",
+        "description": "Breaded fried cheese with rustic potatoes.",
+        "image": "/img/picture/gf_5fe5f9508c41a5.174915381608907088575.jpg",
+        "weight": "135 / 185",
+        "price": 520,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c12-6112-93cd-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Fish for beer",
+        "description": "Deep fried smelt.",
+        "image": "/img/picture/gf_5fe37c1cbbc479.047344711608743964769.jpg",
+        "weight": "300 g.",
+        "price": 390,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c1c-63e2-903d-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Magadan shrimp",
+        "description": "Fried with chili and garlic or boiled in beer of your choice.",
+        "image": "/img/picture/gf_5fde29003d2b75.424983671608395008251.jpg",
+        "weight": "315",
+        "price": 1560,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c26-613a-8dc6-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "topinki",
+        "description": "Aromatic rye croutons with garlic and smoked mackerel sauce.",
+        "image": "/img/picture/gf_5fe0aa7d655681.192737791608559229415.jpg",
+        "weight": "185/35",
+        "price": 260,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c2f-6e92-b9b9-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Chicken wings",
+        "description": "Marinated chicken wings with potatoes, fresh vegetables and Mano Chili sauce.",
+        "image": "/img/picture/gf_603a1bd64eb294.370628191614420950322.jpg",
+        "weight": "390",
+        "price": 580,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c43-6852-aa4b-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Rapany",
+        "description": "In cream cheese sauce",
+        "image": "/img/picture/gf_6374d9350e0f42.344292251668602165058.jpg",
+        "weight": "250 g.",
+        "price": 690,
+        "sort_order": 6,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c39-6ad2-9883-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Tashtichki",
+        "description": "Czech deep-fried potato dough patties with mushrooms, cabbage and ham and cheese.",
+        "image": "/img/picture/gf_5fe0a3be36dc38.953123651608557502225.jpg",
+        "weight": "370",
+        "price": 450,
+        "sort_order": 6,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c4d-6924-94f5-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Deep-fried squid",
+        "description": "",
+        "image": "/img/picture/gf_6243ec700ee6a3.886210701648618608061.jpg",
+        "weight": "155",
+        "price": 460,
+        "sort_order": 7,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c57-67e4-b45d-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Baked marrow bones",
+        "description": "With garlic, Borodino bread toasts and salsa sauce",
+        "image": "/img/picture/gf_6393499c3eab00.158982031670597020257.jpg",
+        "weight": "830",
+        "price": 790,
+        "sort_order": 7,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c61-6b9a-ad57-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Blacksmiths poke",
+        "description": "Spicy chicken fingers",
+        "image": "/img/picture/gf_623997b72b1713.227762231647941559177.jpg",
+        "weight": "200 / 70 g.",
+        "price": 370,
+        "sort_order": 8,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c6b-6884-bbe7-0025900cf784",
+        "category": "1edaeb33-2c01-67e0-bbf7-0025900cf784",
+        "categories": [
+          "1edaeb33-2c01-67e0-bbf7-0025900cf784"
+        ],
+        "title": "Kilogram snacks for beer",
+        "description": "A whole kilogram of cold and hot beer snacks!",
+        "image": "/img/picture/gf_5fe5f96638e4c9.882223791608907110233.jpg",
+        "weight": "1000",
+        "price": 1520,
+        "sort_order": 9,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c7d-6340-9049-0025900cf784",
+        "category": "1edaeb33-2c76-6900-b626-0025900cf784",
+        "categories": [
+          "1edaeb33-2c76-6900-b626-0025900cf784"
+        ],
+        "title": "Caesar with chicken",
+        "description": "Romano salad, chicken fillet, Caesar dressing, cherry tomatoes, garlic croutons, parmesan cheese.",
+        "image": "/img/picture/gf_623999201fb8a7.715115621647941920130.jpg",
+        "weight": "275",
+        "price": 710,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c87-6192-aec9-0025900cf784",
+        "category": "1edaeb33-2c76-6900-b626-0025900cf784",
+        "categories": [
+          "1edaeb33-2c76-6900-b626-0025900cf784"
+        ],
+        "title": "Prague",
+        "description": "Tomatoes, fresh cucumbers, grilled zucchini, iceberg lettuce, fried chicken breast pieces and bell peppers in a spicy sweet and sour dressing",
+        "image": "/img/picture/gf_623999597ab273.536523671647941977503.jpg",
+        "weight": "290",
+        "price": 620,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c91-6444-98b7-0025900cf784",
+        "category": "1edaeb33-2c76-6900-b626-0025900cf784",
+        "categories": [
+          "1edaeb33-2c76-6900-b626-0025900cf784"
+        ],
+        "title": "Salad with duck breast",
+        "description": "Duck breast with salad mix, apples and oranges with raspberry sauce",
+        "image": "/img/picture/gf_6374d94c798e05.790485971668602188498.jpg",
+        "weight": "330",
+        "price": 530,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2c9b-6340-9efd-0025900cf784",
+        "category": "1edaeb33-2c76-6900-b626-0025900cf784",
+        "categories": [
+          "1edaeb33-2c76-6900-b626-0025900cf784"
+        ],
+        "title": "Mislivecki salad",
+        "description": "Fried hunting sausages and bacon, boiled potatoes, smoked scamorza cheese, quail eggs, iceberg lettuce, fresh and pickled cucumbers, tartar sauce",
+        "image": "/img/picture/gf_62cfa460cfb780.379362581657775200851.jpg",
+        "weight": "415",
+        "price": 680,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ca5-6638-8b68-0025900cf784",
+        "category": "1edaeb33-2c76-6900-b626-0025900cf784",
+        "categories": [
+          "1edaeb33-2c76-6900-b626-0025900cf784"
+        ],
+        "title": "Salad with roast beef",
+        "description": "Roast beef, boiled potatoes, arugula, poached egg and cherry tomatoes in sesame dressing",
+        "image": "/img/picture/gf_6374d95a1f2a39.436501311668602202128.jpg",
+        "weight": "335",
+        "price": 620,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2cb7-65f4-bbdc-0025900cf784",
+        "category": "1edaeb33-2cb0-6d76-bf7d-0025900cf784",
+        "categories": [
+          "1edaeb33-2cb0-6d76-bf7d-0025900cf784"
+        ],
+        "title": "Gulyashivka",
+        "description": "Thick spicy beef soup with potatoes and paprika.",
+        "image": "/img/picture/gf_5fe37c1161d440.779879951608743953401.jpg",
+        "weight": "630",
+        "price": 580,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2cc1-6aea-883e-0025900cf784",
+        "category": "1edaeb33-2cb0-6d76-bf7d-0025900cf784",
+        "categories": [
+          "1edaeb33-2cb0-6d76-bf7d-0025900cf784"
+        ],
+        "title": "Kulaida",
+        "description": "Traditional Czech cream soup with potatoes, mushrooms and poached egg",
+        "image": "/img/picture/gf_62399f3fcbccb5.882591021647943487835.jpg",
+        "weight": "690",
+        "price": 480,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ccb-6e96-910b-0025900cf784",
+        "category": "1edaeb33-2cb0-6d76-bf7d-0025900cf784",
+        "categories": [
+          "1edaeb33-2cb0-6d76-bf7d-0025900cf784"
+        ],
+        "title": "Beef vivar",
+        "description": "Broth with beef and potatoes",
+        "image": "/img/picture/gf_6374d96dd3f744.351858381668602221868.jpg",
+        "weight": "430",
+        "price": 440,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2cde-61f4-ae81-0025900cf784",
+        "category": "1edaeb33-2cd7-69a8-8ad0-0025900cf784",
+        "categories": [
+          "1edaeb33-2cd7-69a8-8ad0-0025900cf784"
+        ],
+        "title": "Zagradni",
+        "description": "Beef and pork sausage with cheese and cilantro. ",
+        "image": "/img/picture/gf_5fde2f2f7c5848.905430281608396591509.jpg",
+        "weight": "240",
+        "price": 530,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ce8-641a-b6fe-0025900cf784",
+        "category": "1edaeb33-2cd7-69a8-8ad0-0025900cf784",
+        "categories": [
+          "1edaeb33-2cd7-69a8-8ad0-0025900cf784"
+        ],
+        "title": "Óstra paprikova",
+        "description": "Spicy beef and pork sausage. ",
+        "image": "/img/picture/gf_5fde2f680b7428.302795181608396648047.jpg",
+        "weight": "240",
+        "price": 510,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2cf3-6414-8091-0025900cf784",
+        "category": "1edaeb33-2cd7-69a8-8ad0-0025900cf784",
+        "categories": [
+          "1edaeb33-2cd7-69a8-8ad0-0025900cf784"
+        ],
+        "title": "Munich",
+        "description": "Pork with spices. ",
+        "image": "/img/picture/gf_5fde3033ab86a9.351064221608396851703.jpg",
+        "weight": "240",
+        "price": 490,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d00-64e8-bdd7-0025900cf784",
+        "category": "1edaeb33-2cd7-69a8-8ad0-0025900cf784",
+        "categories": [
+          "1edaeb33-2cd7-69a8-8ad0-0025900cf784"
+        ],
+        "title": "Mislivetska",
+        "description": "Homemade beef and pork sausage. ",
+        "image": "/img/picture/gf_5fde305b54ca81.549711891608396891347.jpg",
+        "weight": "240",
+        "price": 560,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d0d-69a4-bb7e-0025900cf784",
+        "category": "1edaeb33-2cd7-69a8-8ad0-0025900cf784",
+        "categories": [
+          "1edaeb33-2cd7-69a8-8ad0-0025900cf784"
+        ],
+        "title": "Assorted sausages",
+        "description": "Served with stewed cabbage and fried potatoes. ",
+        "image": "/img/picture/gf_5fe5f984c90db5.174339601608907140824.jpg",
+        "weight": "1590",
+        "price": 2390,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d28-6e84-a2e0-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "stechno",
+        "description": "Roasted duck leg with quinoa and vegetables and raspberry demi-glace sauce",
+        "image": "/img/picture/gf_6374d982c95f68.728528041668602242825.jpg",
+        "weight": "360",
+        "price": 990,
+        "sort_order": 1,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d35-67ec-be81-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Pilsen goulash",
+        "description": "Stewed beef with potato pancakes and dumplings.",
+        "image": "/img/picture/gf_603a24232bcb20.883085431614423075179.jpg",
+        "weight": "230 / 215",
+        "price": 790,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d43-672a-bb43-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Kahna",
+        "description": "Baked duck half with a traditional Czech side dish - stewed cabbage with cumin dumplings.",
+        "image": "/img/picture/gf_6374d9911ce298.649497331668602257118.jpg",
+        "weight": "1025",
+        "price": 1720,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d51-6e42-bc42-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "baked ham",
+        "description": "As a side dish - bramboro dort with cheese and pepperoni",
+        "image": "/img/picture/gf_6374d99d117290.569224381668602269071.jpg",
+        "weight": "450",
+        "price": 930,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d5f-6a10-9a8f-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Lamb's knee",
+        "description": "Stewed leg of lamb with a traditional Czech side dish - stewed cabbage with cumin and dumplings",
+        "image": "/img/picture/gf_6374d9abc4ca52.134400611668602283806.jpg",
+        "weight": "730",
+        "price": 1430,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d6d-671e-b323-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Baked pork ribs",
+        "description": "Served with fried potatoes and pickled tomatoes.",
+        "image": "/img/picture/gf_601c155b241a92.780604721612453211148.jpg",
+        "weight": "1020",
+        "price": 1820,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d78-6628-ac60-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Pork ribs BBQ",
+        "description": "Served with wheat chips",
+        "image": "/img/picture/gf_62399fd31ee235.318672891647943635127.jpg",
+        "weight": "675",
+        "price": 1310,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d83-67da-8285-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Wild boar cutlets",
+        "description": "With Cauliflower BBQ and Potato Muffin",
+        "image": "/img/picture/gf_6374d9cdb54ed2.116559491668602317743.jpg",
+        "weight": "360",
+        "price": 720,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d9a-6f7a-b2f4-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Plnene kurzhe",
+        "description": "Cheese-stuffed baked chicken breast with mashed potatoes and champignons",
+        "image": "/img/picture/gf_6374d9de287ba6.024836191668602334166.jpg",
+        "weight": "440",
+        "price": 690,
+        "sort_order": 6,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2d8f-63aa-86f1-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Vépreve knee",
+        "description": "Roasted pork leg with stewed cabbage.",
+        "image": "/img/picture/gf_6239a6037ba316.891629391647945219506.jpg",
+        "weight": "770",
+        "price": 1320,
+        "sort_order": 6,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2da7-6f86-9866-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Meat platter",
+        "description": "Dish for 4 people. ",
+        "image": "/img/picture/gf_6239a5ec887477.692259061647945196559.jpg",
+        "weight": "2215",
+        "price": 3450,
+        "sort_order": 7,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2db3-639a-99b9-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Lesnik",
+        "description": "Pork tenderloin stuffed with mushrooms and spicy sausage. ",
+        "image": "/img/picture/gf_6239a068f11ac8.258295821647943784988.jpg",
+        "weight": "420",
+        "price": 620,
+        "sort_order": 8,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2dbe-6c90-9ddc-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Roasted beef ribs",
+        "description": "",
+        "image": "/img/picture/gf_62d650443df1b4.279164901658212420254.jpg",
+        "weight": "820",
+        "price": 1990,
+        "sort_order": 8,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2dca-6202-a5ed-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Lambs Rolada",
+        "description": "Lamb roll with cream cheese sauce. ",
+        "image": "/img/picture/gf_6374d9b770b912.624718451668602295462.jpg",
+        "weight": "445",
+        "price": 870,
+        "sort_order": 9,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2dd5-60e4-aa99-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Beef with bacon and cheese",
+        "description": "Thin edge of beef stuffed with cheese and wrapped in bacon, with boiled potatoes with cheese and bacon",
+        "image": "/img/picture/gf_6374d9f59bc636.130318061668602357638.jpg",
+        "weight": "470",
+        "price": 1100,
+        "sort_order": 10,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2de1-6074-95da-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "Salmon steak",
+        "description": "Served with mashed potatoes with creamy pepper sauce",
+        "image": "/img/picture/gf_63eb22533e0a69.060896841676354131254.jpg",
+        "weight": "430",
+        "price": 1670,
+        "sort_order": 11,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2deb-6f74-9cd1-0025900cf784",
+        "category": "1edaeb33-2d1f-63de-a8e9-0025900cf784",
+        "categories": [
+          "1edaeb33-2d1f-63de-a8e9-0025900cf784"
+        ],
+        "title": "chicken schnitzel",
+        "description": "",
+        "image": "/img/picture/gf_628db7c1c54143.448912911653454785808.jpg",
+        "weight": "200 / 150 / 90 g.",
+        "price": 630,
+        "sort_order": 13,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e00-682a-af1a-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Kuzhetsy burger",
+        "description": "",
+        "image": "/img/picture/gf_62dff53e8d1dd4.311277841658844478578.jpg",
+        "weight": "315",
+        "price": 590,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e0b-63ba-ae2e-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Burger with bleu cheese sauce",
+        "description": "Marbled beef patty, brioche bun, fresh tomatoes, pickles, iceberg lettuce, red onion, cheddar cheese, blue cheese and BBQ sauces. ",
+        "image": "/img/picture/gf_6379c9d9da96c5.515275741668925913895.jpg",
+        "weight": "365",
+        "price": 580,
+        "sort_order": 2,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e16-686e-95eb-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Lingonberry burger",
+        "description": "Marbled beef patty, camembert cheese, lingonberry sauce, fried onions, iceberg lettuce and tartar sauce",
+        "image": "/img/picture/gf_62468f569c25f3.929544081648791382640.jpg",
+        "weight": "275",
+        "price": 680,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e21-680e-b46c-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Burger with mozzarella and pesto sauce",
+        "description": "Marbled beef patty, brioche bun, fresh tomatoes, iceberg lettuce, mozzarella cheese, pesto and balsamic. ",
+        "image": "/img/picture/gf_6379c9cc66a3b8.130200051668925900420.jpg",
+        "weight": "395",
+        "price": 690,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e2c-67b8-ab30-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Hot dog with mozzarella",
+        "description": "Chicken sausage with mozzarella, fresh cucumbers and tomatoes, arugula, mozzarella cheese and tartar sauce",
+        "image": "/img/picture/gf_62468f87ab3455.439815861648791431701.jpg",
+        "weight": "200",
+        "price": 360,
+        "sort_order": 8,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2e38-6374-ab43-0025900cf784",
+        "category": "1edaeb33-2df9-6354-a7e8-0025900cf784",
+        "categories": [
+          "1edaeb33-2df9-6354-a7e8-0025900cf784"
+        ],
+        "title": "Hot dog fence",
+        "description": "Pork sausage with cheese and cilantro, french fries, spicy mustard, pickles and tartar sauce",
+        "image": "/img/picture/gf_62468f78278811.830570921648791416162.jpg",
+        "weight": "220",
+        "price": 360,
+        "sort_order": 9,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2eda-6444-9a0a-0025900cf784",
+        "category": "1edaeb33-2ed3-622a-8911-0025900cf784",
+        "categories": [
+          "1edaeb33-2ed3-622a-8911-0025900cf784"
+        ],
+        "title": "cheesecake",
+        "description": "",
+        "image": "/img/picture/gf_6374da09eb9593.547796031668602377965.jpg",
+        "weight": "170",
+        "price": 380,
+        "sort_order": 3,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ee4-6f7a-bc42-0025900cf784",
+        "category": "1edaeb33-2ed3-622a-8911-0025900cf784",
+        "categories": [
+          "1edaeb33-2ed3-622a-8911-0025900cf784"
+        ],
+        "title": "pancake cake",
+        "description": "Cold pancake cake with layers of custard with liqueur",
+        "image": "/img/picture/gf_6239a5c7256f69.769492141647945159153.jpg",
+        "weight": "205",
+        "price": 390,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2eef-6290-bede-0025900cf784",
+        "category": "1edaeb33-2ed3-622a-8911-0025900cf784",
+        "categories": [
+          "1edaeb33-2ed3-622a-8911-0025900cf784"
+        ],
+        "title": "Snickers Dort",
+        "description": "Chocolate sponge cake with creamy caramel layers and roasted peanuts",
+        "image": "/img/picture/gf_6374da15800df8.010776071668602389525.jpg",
+        "weight": "185",
+        "price": 340,
+        "sort_order": 4,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ef9-69f2-a30c-0025900cf784",
+        "category": "1edaeb33-2ed3-622a-8911-0025900cf784",
+        "categories": [
+          "1edaeb33-2ed3-622a-8911-0025900cf784"
+        ],
+        "title": "Tart Lemon Kurd",
+        "description": "",
+        "image": "/img/picture/gf_6374da24426560.352183911668602404272.jpg",
+        "weight": "135",
+        "price": 370,
+        "sort_order": 5,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      }
+    ]
+  },
+  {
+    "id": "1edaeb33-2fb7-609c-b484-0025900cf784",
+    "title": "Business lunch",
+    "positions": [
+      {
+        "id": "1edaeb33-2fbc-67fe-8fff-0025900cf784",
+        "category": "1edaeb33-2fb7-609c-b484-0025900cf784",
+        "categories": [
+          "1edaeb33-2fb7-609c-b484-0025900cf784"
+        ],
+        "title": "Business lunch",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 0,
+        "sort_order": 0,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2fe1-6194-96ba-0025900cf784",
+        "category": "1edaeb33-2fda-6b46-85b7-0025900cf784",
+        "categories": [
+          "1edaeb33-2fda-6b46-85b7-0025900cf784"
+        ],
+        "title": "Spanish bean soup",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 155,
+        "sort_order": 19000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2fea-6a28-b088-0025900cf784",
+        "category": "1edaeb33-2fda-6b46-85b7-0025900cf784",
+        "categories": [
+          "1edaeb33-2fda-6b46-85b7-0025900cf784"
+        ],
+        "title": "Chowder with chicken",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 135,
+        "sort_order": 20000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-2ffc-6d2c-bf1a-0025900cf784",
+        "category": "1edaeb33-2ff6-63c8-bdd0-0025900cf784",
+        "categories": [
+          "1edaeb33-2ff6-63c8-bdd0-0025900cf784"
+        ],
+        "title": "chicken curry",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 250,
+        "sort_order": 22000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-3006-6656-9696-0025900cf784",
+        "category": "1edaeb33-2ff6-63c8-bdd0-0025900cf784",
+        "categories": [
+          "1edaeb33-2ff6-63c8-bdd0-0025900cf784"
+        ],
+        "title": "Doner with duck",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 215,
+        "sort_order": 23000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-3010-62dc-baf5-0025900cf784",
+        "category": "1edaeb33-2ff6-63c8-bdd0-0025900cf784",
+        "categories": [
+          "1edaeb33-2ff6-63c8-bdd0-0025900cf784"
+        ],
+        "title": "Stuffed cabbage from chicken and pork",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 210,
+        "sort_order": 24000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-301a-6214-9b3e-0025900cf784",
+        "category": "1edaeb33-2ff6-63c8-bdd0-0025900cf784",
+        "categories": [
+          "1edaeb33-2ff6-63c8-bdd0-0025900cf784"
+        ],
+        "title": "Beef Goulash",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 245,
+        "sort_order": 25000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-3024-671e-9559-0025900cf784",
+        "category": "1edaeb33-2ff6-63c8-bdd0-0025900cf784",
+        "categories": [
+          "1edaeb33-2ff6-63c8-bdd0-0025900cf784"
+        ],
+        "title": "Elsatian sausage",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 215,
+        "sort_order": 26000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-303e-6592-9422-0025900cf784",
+        "category": "1edaeb33-3034-660a-90b0-0025900cf784",
+        "categories": [
+          "1edaeb33-3034-660a-90b0-0025900cf784"
+        ],
+        "title": "Pasta farfalle",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 60,
+        "sort_order": 28000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-304e-6898-906f-0025900cf784",
+        "category": "1edaeb33-3034-660a-90b0-0025900cf784",
+        "categories": [
+          "1edaeb33-3034-660a-90b0-0025900cf784"
+        ],
+        "title": "Zraza with cabbage",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 95,
+        "sort_order": 29000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-305e-6004-8216-0025900cf784",
+        "category": "1edaeb33-3034-660a-90b0-0025900cf784",
+        "categories": [
+          "1edaeb33-3034-660a-90b0-0025900cf784"
+        ],
+        "title": "Rice with mushrooms and dill",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 110,
+        "sort_order": 30000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-3074-6b4c-89ce-0025900cf784",
+        "category": "1edaeb33-306c-6884-b223-0025900cf784",
+        "categories": [
+          "1edaeb33-306c-6884-b223-0025900cf784"
+        ],
+        "title": "Royal cheesecake",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 75,
+        "sort_order": 32000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-3080-6622-9e35-0025900cf784",
+        "category": "1edaeb33-306c-6884-b223-0025900cf784",
+        "categories": [
+          "1edaeb33-306c-6884-b223-0025900cf784"
+        ],
+        "title": "Meringue roll with raspberry confit",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 155,
+        "sort_order": 33000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-308d-6836-92da-0025900cf784",
+        "category": "1edaeb33-306c-6884-b223-0025900cf784",
+        "categories": [
+          "1edaeb33-306c-6884-b223-0025900cf784"
+        ],
+        "title": "coffee eclair",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 110,
+        "sort_order": 34000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-30a2-6d58-85f7-0025900cf784",
+        "category": "1edaeb33-309a-6cc0-8967-0025900cf784",
+        "categories": [
+          "1edaeb33-309a-6cc0-8967-0025900cf784"
+        ],
+        "title": "Juice",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 85,
+        "sort_order": 36000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-30b1-684e-b20e-0025900cf784",
+        "category": "1edaeb33-309a-6cc0-8967-0025900cf784",
+        "categories": [
+          "1edaeb33-309a-6cc0-8967-0025900cf784"
+        ],
+        "title": "Tea",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 50,
+        "sort_order": 37000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      },
+      {
+        "id": "1edaeb33-30c1-6816-9767-0025900cf784",
+        "category": "1edaeb33-309a-6cc0-8967-0025900cf784",
+        "categories": [
+          "1edaeb33-309a-6cc0-8967-0025900cf784"
+        ],
+        "title": "cherry drink",
+        "description": null,
+        "image": null,
+        "weight": null,
+        "price": 75,
+        "sort_order": 38000,
+        "article": "",
+        "selected": false,
+        "blocked": false
+      }
+    ]
+  }
+]

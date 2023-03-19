@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "db748a00-039f-4b40-8bdd-0815ad8a5294",
+      "title": "Czech beer houses",
+      "trademarks": [
+        "f5434729-defe-4053-a375-5fe61e8970d4",
+        "3040508e-81af-489c-8aa5-236dd8644ae1",
+        "539005c4-fd02-4679-a52e-dfb59496a678"
+      ]
+    },
+    {
+      "id": "588573f2-da81-4ef0-986e-cf32cf12df56",
+      "title": "Guava",
+      "trademarks": []
+    },
+    {
+      "id": "76f4f4d4-b0f5-474c-bb3f-f59d4fa13b89",
+      "title": "Gold Vobla",
+      "trademarks": [
+        "1edaeb33-3ed7-6fd6-a693-0025900cf784"
+      ]
+    },
+    {
+      "id": "00d0e74c-8037-40c2-a7cf-48e642c3b8cf",
+      "title": "Profitcom",
+      "trademarks": [
+        "1edaeb33-9b48-6df6-9e8e-0025900cf784",
+        "1edaeb33-9b5b-6bfe-ac0e-0025900cf784",
+        "1edaeb33-9b6b-6c52-8508-0025900cf784"
+      ]
+    }
+  ],
+  "status": 200,
+  "statusText": "",
+  "headers": {
+    "cache-control": "no-cache, private",
+    "content-type": "application/json"
+  },
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "method": "get"
+  },
+  "request": {}
+}
